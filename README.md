@@ -19,9 +19,6 @@ Pattern Analysis and Machine Intelligence, IEEE Transactions on, 30(10):1858–1
 1) Opencv compiled with CUDA 10.2
 2) CUDA Toolkit (has the NVIDIA NPP libaries) 
 
-# Notes:
-1) There is no GPU/Multi-thread implementations of the ECC algorithm.
-
 # Benchmark
 
 Benchmark was conducted using the following command argument:
