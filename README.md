@@ -21,7 +21,7 @@ Pattern Analysis and Machine Intelligence, IEEE Transactions on, 30(10):1858–1
 
 # Benchmark
 
-Benchmark was conducted using the following command argument:
+Benchmark was conducted using the following command argument (the input image is obtained automatically from opencv installation directory):
 ```
 ./ecc_gpu fruits.jpg -o=outWarp.ecc -m=homography -e=1e-6 -N=70 -v=1
 ```
