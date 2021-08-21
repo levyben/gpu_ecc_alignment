@@ -1,4 +1,4 @@
-# CUDA ECC image alignement algorithm
+# CUDA ECC image alignment algorithm
 
 This is my implementation of the ECC image alignment algorithm for GPU, using CUDA and NPP (NVIDIA 2D Image And Signal Performance Primitives) libraies. 
 
