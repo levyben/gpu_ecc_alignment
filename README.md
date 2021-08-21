@@ -29,7 +29,7 @@ On **1920x2560** (rowsxcols) image resolution:
 
 | Device        | Time [sec]           | Implementation |
 | ------------- |:-------------:| ------------- |
-| Single-Thread CPU (Intel i7-6700)      | 20.865 | OpenCV CPU
+| Single-Thread CPU (Intel i7-6700)      | 20.865 | OpenCV CPU (Using AVX2)
 | GPU (Nvidia GTX 970 - NO OC)      | 2.187      |  OpenCV GPU+NPP
 
 # Conclusions
